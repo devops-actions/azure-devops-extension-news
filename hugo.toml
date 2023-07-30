@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Azure DevOps Extension News'
 theme = 'ananke'
+[outputs]
+  home = ["HTML", "RSS"]
